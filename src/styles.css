@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+
+@import '~swiper/dist/css/swiper.min.css';
+
+.swiper-slide {
+    text-align: center;
+    margin-bottom: 60px;
+}
+swiper, .swiper {
+  max-width: 400px;
+}
